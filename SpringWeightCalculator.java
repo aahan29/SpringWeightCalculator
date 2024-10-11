@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class asst1_madhokaa {
+public class SpringWeightCalculator {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
 
